@@ -1,0 +1,9 @@
+//help me ignore .vscode .history folder too
+# Ignore node_modules folder
+node_modules/
+# Ignore .vscode folder
+.vscode/
+# Ignore .history folder
+.history/
+.package-lock.json
+.package.json
