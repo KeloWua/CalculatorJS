@@ -48,7 +48,7 @@ body {
     border-radius: 0px 0px 30px 30px;
 }
 
-.number, .operator, .dot, .clear {
+.number, .operand, .dot, .clear {
     color: #fff;
     background-color: rgb(65, 63, 63);
     font-size: 3rem;
@@ -70,15 +70,15 @@ body {
 
 }
 
-.operator {
+.operand {
     background-color: rgb(243, 163, 50);
 }
 
-.operator:hover {
+.operand:hover {
     background-color: rgb(222, 156, 64);
 }
 
-.operator:active {
+.operand:active {
     background-color: rgb(222, 136, 16);
 }
 
